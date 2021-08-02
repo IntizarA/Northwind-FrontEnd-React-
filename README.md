@@ -1,4 +1,4 @@
-![UML component diagram-1](https://user-images.githubusercontent.com/80961100/127847724-48935375-0804-4fb8-ab76-9ed54899a263.jpg)
+
 
 
 # Getting Started with Create React App
